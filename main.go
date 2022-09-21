@@ -17,3 +17,4 @@ func main() {
 	myFigure.Print()
 	time.Sleep(10 * time.Hour)
 }
+#
